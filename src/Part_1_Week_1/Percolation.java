@@ -1,7 +1,7 @@
 /*----------------------------------------------------------------
  *  First Program Assignment - Java Algorithms Part I
  *  @Author David Anez
- *  @Data   15/02/2016
+ *  @Date   15/02/2016
  *
  *  Specification of the assignment:
  *    - http://coursera.cs.princeton.edu/algs4/assignments/percolation.html
